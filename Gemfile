@@ -54,6 +54,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "haml-rails", "~> 2.0"
-#gem 'font-awesome-sass', '~> 5.14.0'
+gem 'font-awesome-sass', '~> 5.12.0'
 gem 'simple_form'
 gem 'actiontext'
